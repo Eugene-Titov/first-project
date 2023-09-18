@@ -15,4 +15,6 @@ text3
 paragraf2
 text *cursive* or _cursive2_  
 strong **strong** or __strong__  
-deny ~~deny text~~
+deny ~~deny text~~  
+* first element  
+* second element  
