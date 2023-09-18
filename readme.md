@@ -17,3 +17,4 @@ strong **strong** or __strong__
 deny ~~deny text~~  
 * first element  
 * second element  
+link from [Яндекс](https://ya.ru "link yandex")  
