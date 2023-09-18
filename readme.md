@@ -1,23 +1,35 @@
-#### Markdown
+###  шпаргалка markdown
 
-
--------------------------------------------------  
-above line
+#### выделение текста  
 ---
-under line
-end lines---------------------------------------------
+для курсива используется символ * или _  
+например *cursive* или _cursive2_  
+для выделения жирным символ ** или __  
+например **strong** или __strong__  
 
-text1  
-text2<br>
-text3
+#### заголовки  
+---
+загловки создаются при помощи символа #(от 1 до 6)
+например # самый большой  
+###### самый маленький  
 
-paragraf2
-text *cursive* or _cursive2_  
-strong **strong** or __strong__  
-deny ~~deny text~~  
-* first element  
-* second element  
-link from [Яндекс](https://ya.ru "link yandex")  
+#### список  
+---
+нумерованный список
+1. first
+2. second  
+
+
+ненумерованный
+* первый
+* второй  
+
+#### ссылки  
+---
+[link](http://ya.ru "yandex")  
+
+
+#### code
 ```bash
 ls -la
 ```
